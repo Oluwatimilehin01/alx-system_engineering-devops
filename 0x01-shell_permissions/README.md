@@ -1,1 +1,1 @@
- permission for all
+ permission to other
