@@ -1,1 +1,1 @@
-print hello world
+confuse person
